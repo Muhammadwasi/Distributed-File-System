@@ -114,7 +114,7 @@ $shutdown
 - Administrator must know how many servers are running at a time.
 - Administrator must know if he/she is starting first server.
 - Every server is identified by its hostname. If hostname is changed, the file cannot be recovered.
-- N+1 replication has been done.
+- Replication of factor 2 has been done.
 
 - A message protocol has been introduced in which every time a message is sent, it appends its length with the message.
 
