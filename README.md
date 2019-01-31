@@ -10,7 +10,7 @@
 ```
   $python3 server.py –f 1
 ```
-* If you are starting 3rd server or higher. Specify how many servers are already there in the distributed system by giving the optional argument s as number of already running servers.
+* If you are starting 3rd server or higher. Specify how many servers are already there in the distributed system by giving the optional argument **s** as number of already running servers.
 ```
   >python3 server.py –s 2 #the command is for starting 3rd server in the system.
 ```
