@@ -2,9 +2,9 @@
 ## Up and Running Client and Server:
 ### Server Configuration:
 * Run create_config.py file on each server to make a configuration file. You can edit the configuration file on your own. The command for running the create_config.py is:
-  ```
-  $python3 create_config.py
-  ```
+```
+$python3 create_config.py
+```
 ### Running Server: 
 * If you are starting a first server, give the **f** optional argument as 1
 ```
