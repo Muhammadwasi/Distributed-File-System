@@ -12,8 +12,9 @@
 ```
 * If you are starting 3rd server or higher. Specify how many servers are already there in the distributed system by giving the optional argument **s** as number of already running servers.
 ```
-  >python3 server.py –s 2 #the command is for starting 3rd server in the system.
+  >python3 server.py –s 2 
 ```
+  Note that the command is for starting 3rd server in the system because 2 is specified.
 ### Client Running:
 * Run client by this command
 ```
